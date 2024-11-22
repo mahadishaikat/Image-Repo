@@ -5,3 +5,15 @@
 <img src="https://raw.githubusercontent.com/mahadishaikat/Image-Repo/refs/heads/main/Hyprdots/Keybindings.gif" width="200"/>
 
 <img src="https://raw.githubusercontent.com/mahadishaikat/hyprdots/refs/heads/main/Source/assets/Installation.gif" width="200"/>
+### GIF Previews:  
+Click on the links to see the GIFs directly:  
+
+- [Installation](#installation)
+
+---
+
+### GIF Details:  
+
+#### Installation  
+<a id="installation"></a>  
+<img src="https://raw.githubusercontent.com/mahadishaikat/hyprdots/refs/heads/main/Source/assets/Installation.gif" width="200"/>
